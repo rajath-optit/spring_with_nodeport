@@ -475,3 +475,13 @@ If you need to update the Docker image, follow these steps:
 - [Kubernetes kubectl Command Reference](https://kubernetes.io/docs/reference/kubectl/overview/)
 - [Docker Hub](https://hub.docker.com/)
 
+
+output
+![image](https://github.com/rajath-optit/spring_with_nodeport/assets/128474801/6cf6cc8c-99c4-4c33-962d-64fe2f3fac85)
+
+[you may get error if used https] [check python-ingress Repo to tackle this issue.]
+
+-After using nodeport the application was accessable from allocated port(30080)
+-[Accesable from every node in vm that is connected to kubernetes]
+
+check ingress next :)
